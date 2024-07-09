@@ -20,7 +20,7 @@ const Hero = () => {
                     animate='visible'
                     className='pb-16 text-6xl font-thin tracking-tight 
                     lg:mt-16 lg:text-8xl'>
-                        Suresh Durai Murugan 
+                        Karthick K
                     </motion.h1>
                     <motion.span variants={conatainer(0.5)}
                     initial='Hidden'
@@ -36,7 +36,7 @@ const Hero = () => {
                     initial={{x:100,opacity:0}}
                     animate={{x:0,opacity:1}}
                     transition={{duration:1, delay:1.2}} 
-                    src={profilePic} alt="Suresh Durai Murugan" />
+                    src={profilePic} alt="Karthick K" />
                 </div>
             </div>
         </div>
