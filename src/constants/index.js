@@ -42,14 +42,14 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Youtube_Clone_Django",
     image: project1,
     description:
       "I designed and implemented a video sharing application using Django. The platform features user authentication, video upload, streaming, and commenting capabilities. Utilizing Django’s ORM, I ensured efficient management of an SQLite database for seamless data storage and retrieval. I developed models for user profiles, video metadata, and user interactions. Additionally, I configured the project to effectively handle static and media files, enabling smooth serving of video content and static assets such as CSS and JavaScript files. This included implementing features for efficient file uploads and playback of media content.",
     technologies: ["HTML", "CSS", "Django"],
   },
   {
-    title: "Task Management App",
+    title: "Zomato_Clone_Reactjs",
     image: project2,
     description:
       "I am developing a Zomato clone using Reactjs, focusing on creating a responsive interface with intuitive navigation for browsing menus, viewing dishes, and seamlessly adding items to the cart. The project employs efficient state management with React, ensuring real-time data updates and smooth integration with backend APIs for order processing. It also features personalized recommendations to engage users and an interactive order tracking system for enhanced satisfaction and encouraging repeat usage.",
